@@ -1,5 +1,5 @@
 import openpyxl
-from archive import *
+
 from openpyxl.drawing.image import Image
 import os 
 def link_images_to_excel(images_info,excel_file):
